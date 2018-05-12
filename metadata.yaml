@@ -1,0 +1,37 @@
+_repo: The-Brass-Bellor-The-Chariot-of-Death_26623
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: De Leon, Solon
+    alias: Leon, Solon De
+    birthdate: 1883
+    gutenberg_agent_id: '32144'
+    url: http://www.gutenberg.org/2009/agents/32144
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Eugene
+    - Sue, Marie Joseph
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
+description: ''
+gutenberg_issued: '2008-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26623'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Gaul -- History -- 58 B.C.-511 A.D. -- Fiction'
+title: The Brass Bell; or, The Chariot of Death
+url: http://www.gutenberg.org/ebooks/26623
