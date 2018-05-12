@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1186
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26623#The-Brass-Bellor-The-Chariot-of-Death
 gutenberg_issued: '2008-08-15'
 gutenberg_type: Text
 identifiers:
